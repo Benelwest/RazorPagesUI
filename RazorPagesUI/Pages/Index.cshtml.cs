@@ -17,6 +17,8 @@ namespace RazorPagesUI.Pages
             _logger = logger;
         }
 
+        [BindProperty]
+        public string FirstName { get; set; }
         public void OnGet()
         {
 

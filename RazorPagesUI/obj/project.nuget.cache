@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "UMenw6Duy8Cv04Rj4HK6LLxduVJC++uD9kVI63Y0kPagV7L+pKHc2f5tooUPCOk4DA33K3jF3R4DbHcWPzxB4g==",
+  "dgSpecHash": "C3c9F6dGdpN/hUKjKYzkfLeCgGUjsKNursQ9b0RVhZrz/na6p7IpwWTZX+lDsHJspFpAJN/GXqdi00jSCHO8ww==",
   "success": true,
-  "projectFilePath": "C:\\Sunrise\\RazorPages\\RazorPagesDemo\\RazorPagesUI\\RazorPagesUI.csproj",
+  "projectFilePath": "C:\\Tutorials\\RazorPages\\RazorPagesDemo\\RazorPagesUI\\RazorPagesUI.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

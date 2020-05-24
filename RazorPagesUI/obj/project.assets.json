@@ -14,11 +14,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Sunrise\\RazorPages\\RazorPagesDemo\\RazorPagesUI\\RazorPagesUI.csproj",
+      "projectUniqueName": "C:\\Tutorials\\RazorPages\\RazorPagesDemo\\RazorPagesUI\\RazorPagesUI.csproj",
       "projectName": "RazorPagesUI",
-      "projectPath": "C:\\Sunrise\\RazorPages\\RazorPagesDemo\\RazorPagesUI\\RazorPagesUI.csproj",
+      "projectPath": "C:\\Tutorials\\RazorPages\\RazorPagesDemo\\RazorPagesUI\\RazorPagesUI.csproj",
       "packagesPath": "C:\\Users\\startklar\\.nuget\\packages\\",
-      "outputPath": "C:\\Sunrise\\RazorPages\\RazorPagesDemo\\RazorPagesUI\\obj\\",
+      "outputPath": "C:\\Tutorials\\RazorPages\\RazorPagesDemo\\RazorPagesUI\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

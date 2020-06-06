@@ -8,12 +8,14 @@ using RazorPagesUI.Models;
 
 namespace RazorPagesUI.Pages.Forms
 {
-    public class AddAdressModel: PageModel
+    public class AddAddressModel : PageModel
     {
         [BindProperty]
         public AddressModel Address { get; set; }
+
         public void OnGet()
         {
+
         }
         public IActionResult OnPost()
         {
@@ -21,7 +23,7 @@ namespace RazorPagesUI.Pages.Forms
             {
                 return Page();
             }
-            return RedirectToPage("/index");
+            return RedirectToPage("/Index", new { Address.City });
         }
     }
 }

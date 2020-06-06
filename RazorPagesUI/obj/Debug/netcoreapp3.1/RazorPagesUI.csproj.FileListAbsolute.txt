@@ -145,5 +145,5 @@ C:\Tutorials\RazorPages\RazorPagesDemo\RazorPagesUI\bin\Debug\netcoreapp3.1\zh-H
 C:\Tutorials\RazorPages\RazorPagesDemo\RazorPagesUI\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 C:\Tutorials\RazorPages\RazorPagesDemo\RazorPagesUI\obj\Debug\netcoreapp3.1\RazorPagesUI.csproj.CoreCompileInputs.cache
 C:\Tutorials\RazorPages\RazorPagesDemo\RazorPagesUI\obj\Debug\netcoreapp3.1\RazorPagesUI.MvcApplicationPartsAssemblyInfo.cache
-C:\Tutorials\RazorPages\RazorPagesDemo\RazorPagesUI\obj\Debug\netcoreapp3.1\Razor\Pages\Forms\AddAdress.cshtml.g.cs
 C:\Tutorials\RazorPages\RazorPagesDemo\RazorPagesUI\obj\Debug\netcoreapp3.1\Razor\Pages\Forms\test.cshtml.g.cs
+C:\Tutorials\RazorPages\RazorPagesDemo\RazorPagesUI\obj\Debug\netcoreapp3.1\Razor\Pages\Forms\AddAddress.cshtml.g.cs
